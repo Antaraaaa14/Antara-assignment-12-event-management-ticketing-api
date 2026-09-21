@@ -1,3 +1,6 @@
+Live Deployed Link:
+https://antara-assignment-12-event-management.onrender.com
+
 # 🎟️ Assignment 12: Event Management & Ticketing API with Firebase & Swagger
 
 **Track:** Backend Development | **Level:** Advanced  
